@@ -3,7 +3,7 @@
 ::after,
 ::before {
   box-sizing: border-box;
-}
+}  
 :root {
   /* COLORS  */
   /* primary */
